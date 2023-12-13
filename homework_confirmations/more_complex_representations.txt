@@ -10,7 +10,7 @@ Keep your name and the confirmation statement on the same line.
 
 Orange
 ======
-Arthur
+Arthur  I completed all the lessons at all three Khan Academy links in the More Complexing Representations assignment
 Asante
 Carla
 Clara
